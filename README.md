@@ -2,7 +2,7 @@ Blank is a full stack project predominatly written in TypeScript.
 
 ====================================
 
-Backend is to handle the api logic 
+BackEnd is to handle the api logic 
 
 ====================================
 
